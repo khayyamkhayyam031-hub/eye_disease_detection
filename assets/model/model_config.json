@@ -1,0 +1,28 @@
+{
+  "labels": [
+    "cataract",
+    "diabetic_retinopathy",
+    "glaucoma",
+    "normal",
+    "not_fundus"
+  ],
+  "input_size": [
+    224,
+    224
+  ],
+  "channels": "RGB",
+  "input_range": "raw float32 0-255, no normalization",
+  "reject_label": "not_fundus",
+  "min_confidence": 0.6,
+  "model_file": "eye_disease_model_fp16.tflite",
+  "preprocess": [
+    "exif_rotate",
+    "rgb",
+    "downscale_max_448_bilinear",
+    "crop_dark_border(gray_mean>15, rows/cols with >1% bright pixels, only if >20% remains)",
+    "pad_to_square_black",
+    "resize_224_bilinear"
+  ],
+  "tta_horizontal_flip": true,
+  "note": "cataract/normal: fundus ya aankh ki bahar wali photo; glaucoma/diabetic_retinopathy: sirf fundus"
+}

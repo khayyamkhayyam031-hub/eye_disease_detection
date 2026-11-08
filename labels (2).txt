@@ -1,0 +1,5 @@
+cataract
+diabetic_retinopathy
+glaucoma
+normal
+not_fundus

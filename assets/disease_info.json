@@ -1,0 +1,109 @@
+{
+  "cataract": {
+    "title": "Cataract",
+    "summary": "Clouding of the eye's natural lens that makes vision blurry.",
+    "about": "A cataract is a clouding of the normally clear lens of the eye. It usually develops slowly with age, but it can also be caused by diabetes, eye injury, long-term steroid use or too much sunlight. Cataract is one of the leading causes of reversible blindness in the world, and it is treated very successfully with surgery.",
+    "symptoms": [
+      "Cloudy, blurry or dim vision",
+      "Trouble seeing at night",
+      "Sensitivity to light and glare",
+      "Seeing halos around lights",
+      "Colours look faded or yellowish",
+      "Frequent changes in glasses prescription",
+      "Double vision in one eye"
+    ],
+    "prevention": [
+      "Wear sunglasses that block UV rays when outdoors",
+      "Do not smoke, and limit alcohol",
+      "Keep diabetes and blood pressure under control",
+      "Eat plenty of fruits and green leafy vegetables",
+      "Have regular eye checkups, especially after age 40"
+    ],
+    "treatment": [
+      "Early stage: stronger glasses, brighter lighting and anti-glare sunglasses",
+      "Cataract surgery: the cloudy lens is removed and replaced with a clear artificial lens (IOL)",
+      "Surgery is safe, quick and usually done as a day procedure",
+      "Follow the eye doctor's advice and use prescribed eye drops after surgery"
+    ],
+    "see_doctor": "See an eye specialist if your vision is getting blurry, glare makes driving or reading hard, or daily activities become difficult. Go urgently if you have sudden vision loss, eye pain or a red eye."
+  },
+  "diabetic_retinopathy": {
+    "title": "Diabetic Retinopathy",
+    "summary": "Damage to the retina's blood vessels caused by diabetes.",
+    "about": "Diabetic retinopathy is an eye disease caused by high blood sugar damaging the small blood vessels of the retina, the light-sensitive layer at the back of the eye. In early stages there may be no symptoms. Over time vessels can leak, swell or grow abnormally, which can lead to serious vision loss if it is not treated. Everyone with diabetes is at risk.",
+    "symptoms": [
+      "Often no symptoms in the early stages",
+      "Blurred or fluctuating vision",
+      "Dark spots or floaters in vision",
+      "Dark or empty areas in the field of vision",
+      "Difficulty seeing colours",
+      "Poor night vision",
+      "Sudden vision loss (advanced stage)"
+    ],
+    "prevention": [
+      "Keep blood sugar (HbA1c) within the target set by your doctor",
+      "Control blood pressure and cholesterol",
+      "Have a dilated eye exam at least once a year if you have diabetes",
+      "Do not smoke",
+      "Exercise regularly and follow a healthy diet",
+      "Take diabetes medicines exactly as prescribed"
+    ],
+    "treatment": [
+      "Good control of blood sugar, blood pressure and cholesterol",
+      "Anti-VEGF injections into the eye to reduce swelling and abnormal vessels",
+      "Laser treatment (photocoagulation) to seal leaking vessels",
+      "Vitrectomy surgery for advanced cases with bleeding or scar tissue",
+      "Regular follow-up with an eye specialist"
+    ],
+    "see_doctor": "If you have diabetes, see an eye specialist for a full retina exam every year even without symptoms. Go urgently if you notice sudden floaters, flashes of light, a dark curtain or sudden loss of vision."
+  },
+  "glaucoma": {
+    "title": "Glaucoma",
+    "summary": "Damage to the optic nerve, often linked to high eye pressure.",
+    "about": "Glaucoma is a group of eye diseases that damage the optic nerve, which carries images from the eye to the brain. It is often related to high pressure inside the eye. The most common type develops slowly and without pain, so many people do not notice it until side vision is already lost. Vision lost from glaucoma cannot be recovered, but early treatment can stop or slow further damage.",
+    "symptoms": [
+      "Often no symptoms in the early stages",
+      "Slow loss of side (peripheral) vision",
+      "Tunnel vision in advanced stages",
+      "Acute type: severe eye pain, headache, red eye",
+      "Acute type: blurred vision, halos around lights, nausea or vomiting"
+    ],
+    "prevention": [
+      "Have regular comprehensive eye exams, especially after age 40",
+      "Get checked more often if glaucoma runs in your family",
+      "Use prescribed eye drops regularly, even when you feel fine",
+      "Protect your eyes from injury (use protective eyewear)",
+      "Exercise regularly and keep a healthy lifestyle"
+    ],
+    "treatment": [
+      "Prescription eye drops to lower eye pressure",
+      "Oral medicines in some cases",
+      "Laser treatment to improve fluid drainage",
+      "Surgery (e.g. trabeculectomy or drainage devices) when needed",
+      "Lifelong follow-up with an eye specialist"
+    ],
+    "see_doctor": "See an eye specialist soon for an eye pressure and optic nerve check. Go to the emergency department immediately if you have sudden severe eye pain, headache, red eye, blurred vision or nausea."
+  },
+  "normal": {
+    "title": "Normal (Healthy Eye)",
+    "summary": "No signs of the screened diseases were found by the model.",
+    "about": "The model did not find signs of cataract, diabetic retinopathy or glaucoma in this image. This is good news, but it is not a guarantee of a healthy eye. Some eye conditions can only be found during a full examination by an eye specialist, so keep having regular checkups.",
+    "symptoms": [
+      "No disease signs detected by the model",
+      "Still watch for blurry vision, eye pain, redness, flashes or floaters"
+    ],
+    "prevention": [
+      "Have a complete eye checkup every 1–2 years (every year if you have diabetes or are over 40)",
+      "Wear UV-blocking sunglasses outdoors",
+      "Follow the 20-20-20 rule for screens: every 20 minutes, look 20 feet away for 20 seconds",
+      "Eat a balanced diet with green leafy vegetables, fruits and fish",
+      "Do not smoke; control blood sugar and blood pressure",
+      "Wear protective eyewear during sports or risky work"
+    ],
+    "treatment": [
+      "No treatment needed based on this screening",
+      "Keep up regular eye checkups and healthy habits"
+    ],
+    "see_doctor": "Visit an eye specialist for routine checkups, or sooner if you notice any change in vision, eye pain, redness, flashes of light or new floaters."
+  }
+}
